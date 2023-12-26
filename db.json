@@ -1,0 +1,96 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "lose yourself",
+      "thumbnail": "https://i.ytimg.com/vi/vm5yt3iMJOg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/S9bCLPwzSC0"
+    },
+    {
+      "id": "2",
+      "caption": "mockingbird",
+      "thumbnail": "https://img.discogs.com/GT95UcvBodnxgqx4SRB_7GS4DTM=/fit-in/497x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11187294-1511487650-9051.jpeg.jpg",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "swerdccd",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "mockingbird",
+          "thumbnail": "https://img.discogs.com/GT95UcvBodnxgqx4SRB_7GS4DTM=/fit-in/497x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11187294-1511487650-9051.jpeg.jpg",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "1",
+          "caption": "lose yourself",
+          "thumbnail": "https://i.ytimg.com/vi/vm5yt3iMJOg/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/S9bCLPwzSC0"
+        },
+        {
+          "id": "1",
+          "caption": "lose yourself",
+          "thumbnail": "https://i.ytimg.com/vi/vm5yt3iMJOg/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/S9bCLPwzSC0"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "categoryName": "sdsds",
+      "allVideos": []
+    },
+    {
+      "id": "3",
+      "categoryName": "swerdccdsds",
+      "allVideos": []
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": "1",
+      "caption": "chaleya",
+      "url": "https://www.youtube.com/embed/7YuAzR2XVAM",
+      "date": "12-23-2332"
+    },
+    {
+      "id": "2",
+      "caption": "mockingbird",
+      "url": "https://www.youtube.com/embed/7YuAzR2XVAM",
+      "date": "12-23-2332"
+    },
+    {
+      "id": "174d3157-9eb4-40bf-aa2e-099e0fedc956",
+      "caption": "lose yourself",
+      "url": "https://www.youtube.com/embed/S9bCLPwzSC0",
+      "date": "2023-12-25T13:46:12.487Z"
+    },
+    {
+      "id": "2305bfb7-78e5-4c5e-86c1-ccf120f87370",
+      "caption": "mockingbird",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-25T13:46:35.877Z"
+    },
+    {
+      "id": "6e9c2682-ee21-4337-9083-154fb4e26e82",
+      "caption": "lose yourself",
+      "url": "https://www.youtube.com/embed/S9bCLPwzSC0",
+      "date": "2023-12-25T13:46:39.680Z"
+    },
+    {
+      "id": "c2176446-f19d-42dc-8638-b510649f9232",
+      "caption": "heloo",
+      "url": "https://www.youtube.com/embed/7YuAzR2XVAM",
+      "date": "2023-12-26T05:57:29.894Z"
+    },
+    {
+      "id": "cf199368-285f-469e-98f5-3912d30f7309",
+      "caption": "mockingbird",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-12-26T06:23:50.642Z"
+    }
+  ]
+}
